@@ -15,4 +15,4 @@ forecast and visualize their ILI activity. To run this code, first put the 'fina
 into the same folder as the code. Then open the code in an ipython notebook, and follow the cell instructions.
 
 Please email me if you have any problems getting it to work.
-email:pranjalg96@gmail.com
+email: pranjalg96@gmail.com
